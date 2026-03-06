@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\PIU\\aplicatie\\insurance-broker-app\\InsuranceBrokerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B087D46-64C4-498C-8933-C1238C4C7990}|InsuranceBrokerApp\\InsuranceBrokerApp.csproj|c:\\users\\user\\documents\\piu\\aplicatie\\insurance-broker-app\\insurancebrokerapp\\insurancebrokerapp\\models\\companieasigurare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B087D46-64C4-498C-8933-C1238C4C7990}|InsuranceBrokerApp\\InsuranceBrokerApp.csproj|solutionrelative:insurancebrokerapp\\models\\companieasigurare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B087D46-64C4-498C-8933-C1238C4C7990}|InsuranceBrokerApp\\InsuranceBrokerApp.csproj|c:\\users\\user\\documents\\piu\\aplicatie\\insurance-broker-app\\insurancebrokerapp\\insurancebrokerapp\\models\\polita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B087D46-64C4-498C-8933-C1238C4C7990}|InsuranceBrokerApp\\InsuranceBrokerApp.csproj|solutionrelative:insurancebrokerapp\\models\\polita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B087D46-64C4-498C-8933-C1238C4C7990}|InsuranceBrokerApp\\InsuranceBrokerApp.csproj|c:\\users\\user\\documents\\piu\\aplicatie\\insurance-broker-app\\insurancebrokerapp\\insurancebrokerapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B087D46-64C4-498C-8933-C1238C4C7990}|InsuranceBrokerApp\\InsuranceBrokerApp.csproj|solutionrelative:insurancebrokerapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B087D46-64C4-498C-8933-C1238C4C7990}|InsuranceBrokerApp\\InsuranceBrokerApp.csproj|c:\\users\\user\\documents\\piu\\aplicatie\\insurance-broker-app\\insurancebrokerapp\\insurancebrokerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B087D46-64C4-498C-8933-C1238C4C7990}|InsuranceBrokerApp\\InsuranceBrokerApp.csproj|solutionrelative:insurancebrokerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B087D46-64C4-498C-8933-C1238C4C7990}|InsuranceBrokerApp\\InsuranceBrokerApp.csproj|c:\\users\\user\\documents\\piu\\aplicatie\\insurance-broker-app\\insurancebrokerapp\\insurancebrokerapp\\models\\politacasco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B087D46-64C4-498C-8933-C1238C4C7990}|InsuranceBrokerApp\\InsuranceBrokerApp.csproj|solutionrelative:insurancebrokerapp\\models\\politacasco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B087D46-64C4-498C-8933-C1238C4C7990}|InsuranceBrokerApp\\InsuranceBrokerApp.csproj|c:\\users\\user\\documents\\piu\\aplicatie\\insurance-broker-app\\insurancebrokerapp\\insurancebrokerapp\\models\\politarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B087D46-64C4-498C-8933-C1238C4C7990}|InsuranceBrokerApp\\InsuranceBrokerApp.csproj|solutionrelative:insurancebrokerapp\\models\\politarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B087D46-64C4-498C-8933-C1238C4C7990}|InsuranceBrokerApp\\InsuranceBrokerApp.csproj|c:\\users\\user\\documents\\piu\\aplicatie\\insurance-broker-app\\insurancebrokerapp\\insurancebrokerapp\\models\\politalocuinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B087D46-64C4-498C-8933-C1238C4C7990}|InsuranceBrokerApp\\InsuranceBrokerApp.csproj|solutionrelative:insurancebrokerapp\\models\\politalocuinta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\PIU\\aplicatie\\insurance-broker-app\\InsuranceBrokerApp\\InsuranceBrokerApp\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "InsuranceBrokerApp\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\PIU\\aplicatie\\insurance-broker-app\\InsuranceBrokerApp\\InsuranceBrokerApp\\Models\\Client.cs",
+              "RelativeToolTip": "InsuranceBrokerApp\\Models\\Client.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T07:01:19.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Polita.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\PIU\\aplicatie\\insurance-broker-app\\InsuranceBrokerApp\\InsuranceBrokerApp\\Models\\Polita.cs",
+              "RelativeDocumentMoniker": "InsuranceBrokerApp\\Models\\Polita.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\PIU\\aplicatie\\insurance-broker-app\\InsuranceBrokerApp\\InsuranceBrokerApp\\Models\\Polita.cs",
+              "RelativeToolTip": "InsuranceBrokerApp\\Models\\Polita.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T07:01:48.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanieAsigurare.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\PIU\\aplicatie\\insurance-broker-app\\InsuranceBrokerApp\\InsuranceBrokerApp\\Models\\CompanieAsigurare.cs",
+              "RelativeDocumentMoniker": "InsuranceBrokerApp\\Models\\CompanieAsigurare.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\PIU\\aplicatie\\insurance-broker-app\\InsuranceBrokerApp\\InsuranceBrokerApp\\Models\\CompanieAsigurare.cs",
+              "RelativeToolTip": "InsuranceBrokerApp\\Models\\CompanieAsigurare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T07:12:06.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\PIU\\aplicatie\\insurance-broker-app\\InsuranceBrokerApp\\InsuranceBrokerApp\\Program.cs",
+              "RelativeDocumentMoniker": "InsuranceBrokerApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\PIU\\aplicatie\\insurance-broker-app\\InsuranceBrokerApp\\InsuranceBrokerApp\\Program.cs",
+              "RelativeToolTip": "InsuranceBrokerApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:25:52.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PolitaRCA.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\PIU\\aplicatie\\insurance-broker-app\\InsuranceBrokerApp\\InsuranceBrokerApp\\Models\\PolitaRCA.cs",
+              "RelativeDocumentMoniker": "InsuranceBrokerApp\\Models\\PolitaRCA.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\PIU\\aplicatie\\insurance-broker-app\\InsuranceBrokerApp\\InsuranceBrokerApp\\Models\\PolitaRCA.cs",
+              "RelativeToolTip": "InsuranceBrokerApp\\Models\\PolitaRCA.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T07:02:17.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PolitaCASCO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\PIU\\aplicatie\\insurance-broker-app\\InsuranceBrokerApp\\InsuranceBrokerApp\\Models\\PolitaCASCO.cs",
+              "RelativeDocumentMoniker": "InsuranceBrokerApp\\Models\\PolitaCASCO.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\PIU\\aplicatie\\insurance-broker-app\\InsuranceBrokerApp\\InsuranceBrokerApp\\Models\\PolitaCASCO.cs",
+              "RelativeToolTip": "InsuranceBrokerApp\\Models\\PolitaCASCO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T07:02:59.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PolitaLocuinta.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\PIU\\aplicatie\\insurance-broker-app\\InsuranceBrokerApp\\InsuranceBrokerApp\\Models\\PolitaLocuinta.cs",
+              "RelativeDocumentMoniker": "InsuranceBrokerApp\\Models\\PolitaLocuinta.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\PIU\\aplicatie\\insurance-broker-app\\InsuranceBrokerApp\\InsuranceBrokerApp\\Models\\PolitaLocuinta.cs",
+              "RelativeToolTip": "InsuranceBrokerApp\\Models\\PolitaLocuinta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T07:03:35.148Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

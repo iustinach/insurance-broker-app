@@ -1,0 +1,15 @@
+C:\Users\User\Documents\PIU\aplicatie\insurance-broker-app\InsuranceBrokerApp\InsuranceBrokerApp\obj\Debug\net8.0\InsuranceBrokerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\PIU\aplicatie\insurance-broker-app\InsuranceBrokerApp\InsuranceBrokerApp\obj\Debug\net8.0\InsuranceBrokerApp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\PIU\aplicatie\insurance-broker-app\InsuranceBrokerApp\InsuranceBrokerApp\obj\Debug\net8.0\InsuranceBrokerApp.AssemblyInfo.cs
+C:\Users\User\Documents\PIU\aplicatie\insurance-broker-app\InsuranceBrokerApp\InsuranceBrokerApp\obj\Debug\net8.0\InsuranceBrokerApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\PIU\aplicatie\insurance-broker-app\InsuranceBrokerApp\InsuranceBrokerApp\obj\Debug\net8.0\InsuranceBrokerApp.sourcelink.json
+C:\Users\User\Documents\PIU\aplicatie\insurance-broker-app\InsuranceBrokerApp\InsuranceBrokerApp\bin\Debug\net8.0\InsuranceBrokerApp.exe
+C:\Users\User\Documents\PIU\aplicatie\insurance-broker-app\InsuranceBrokerApp\InsuranceBrokerApp\bin\Debug\net8.0\InsuranceBrokerApp.deps.json
+C:\Users\User\Documents\PIU\aplicatie\insurance-broker-app\InsuranceBrokerApp\InsuranceBrokerApp\bin\Debug\net8.0\InsuranceBrokerApp.runtimeconfig.json
+C:\Users\User\Documents\PIU\aplicatie\insurance-broker-app\InsuranceBrokerApp\InsuranceBrokerApp\bin\Debug\net8.0\InsuranceBrokerApp.dll
+C:\Users\User\Documents\PIU\aplicatie\insurance-broker-app\InsuranceBrokerApp\InsuranceBrokerApp\bin\Debug\net8.0\InsuranceBrokerApp.pdb
+C:\Users\User\Documents\PIU\aplicatie\insurance-broker-app\InsuranceBrokerApp\InsuranceBrokerApp\obj\Debug\net8.0\InsuranceBrokerApp.dll
+C:\Users\User\Documents\PIU\aplicatie\insurance-broker-app\InsuranceBrokerApp\InsuranceBrokerApp\obj\Debug\net8.0\refint\InsuranceBrokerApp.dll
+C:\Users\User\Documents\PIU\aplicatie\insurance-broker-app\InsuranceBrokerApp\InsuranceBrokerApp\obj\Debug\net8.0\InsuranceBrokerApp.pdb
+C:\Users\User\Documents\PIU\aplicatie\insurance-broker-app\InsuranceBrokerApp\InsuranceBrokerApp\obj\Debug\net8.0\InsuranceBrokerApp.genruntimeconfig.cache
+C:\Users\User\Documents\PIU\aplicatie\insurance-broker-app\InsuranceBrokerApp\InsuranceBrokerApp\obj\Debug\net8.0\ref\InsuranceBrokerApp.dll
